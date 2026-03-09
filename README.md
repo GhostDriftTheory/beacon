@@ -1,5 +1,20 @@
 # MG-OS + GD-Attention Demo
 
+![Protect-then-select attention architecture](protect_then_select_architecture.png)
+
+Related resources
+
+Paper (preprint)  
+MG-OS: https://zenodo.org/records/17712891  
+GD-Attention: https://zenodo.org/records/16757311  
+
+Project page  
+https://www.ghostdriftresearch.com/
+
+Repository  
+https://github.com/GhostDriftTheory/semantic-selection-demo
+
+
 Minimal architecture demo of:
 
 - **Transformer-style softmax attention**
