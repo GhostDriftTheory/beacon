@@ -1,20 +1,21 @@
-# Beacon ( MG-OS + GD-Attention Demo )
+# Beacon: Protect-Then-Select Attention Architecture
+(MG-OS + GD-Attention Demo)
 
 <p align="center">
-  <img src="protect_then_select_architecture.png" width="720">
+  <img src="protect_then_select_architecture.png" width="720" alt="Beacon protect-then-select attention architecture">
 </p>
 
 **Related resources**
 
 Paper (preprint)  
-MG-OS: https://zenodo.org/records/17712891  
-GD-Attention: https://zenodo.org/records/16757311  
+MG-OS: [https://zenodo.org/records/17712891](https://zenodo.org/records/17712891)  
+GD-Attention: [https://zenodo.org/records/16757311  ](https://zenodo.org/records/16757311  )
 
 Project page  
-https://www.ghostdriftresearch.com/
+[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
 
 Repository  
-https://github.com/GhostDriftTheory/semantic-selection-demo
+[https://github.com/GhostDriftTheory/beacon](https://github.com/GhostDriftTheory/beacon)
 
 
 **Minimal architecture demo of:**
