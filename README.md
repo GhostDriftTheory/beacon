@@ -1,4 +1,4 @@
-# MG-OS + GD-Attention Demo
+# Beacon ( MG-OS + GD-Attention Demo )
 
 <p align="center">
   <img src="protect_then_select_architecture.png" width="720">
